@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e86f7b8d-5af5-42fd-bd0b-224d1804d4a1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/bootstrap-3.3.6/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/bootstrap-3.3.6/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/bootstrap-3.3.6/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/bootstrap-3.3.6/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/bootstrap-3.3.6/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/bootstrap-3.3.6/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/bootstrap-3.3.6/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/bootstrap-3.3.6/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/bootstrap-3.3.6/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/bootstrap-3.3.6/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/bootstrap-3.3.6/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/bootstrap-3.3.6/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/Bootstrap Grid System.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/Response Design.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/aboutus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/aboutus_jose_junior.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/aboutus_luighi_zorrilla.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/aboutus_tyer_fowler.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/css/bootstrap-social.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/css/mystyles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/index_bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/index_navbar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-1/conFusion/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/aboutus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/contactus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/css/bootstrap-social.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/css/mystyles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/img/alberto.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/img/buffet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/img/uthappizza.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/front-end-web-ui-frameworks-and-tools/week-2/conFusion/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/About this zip file.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-00_welcome/00_welcome/01_videos_about_html/Videos About HTML.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-1_about_html/01_html_example_web_page_using_svg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-1_about_html/02_html_example_web_page_using_svg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-1_about_html/About HTML.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-2_getting_to_know_html/01_html_example_web_page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-2_getting_to_know_html/Getting to Know HTML.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-3_some_common_html_elements/01_html_example_web_page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-3_some_common_html_elements/02_html_example_structure01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-3_some_common_html_elements/03_html_example_structure02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-3_some_common_html_elements/04_html_example_list01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-3_some_common_html_elements/05_html_example_list02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-3_some_common_html_elements/06_html_example_list04.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-3_some_common_html_elements/07_html_example_list05.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-3_some_common_html_elements/08_html_example_list06.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-3_some_common_html_elements/09_html_example_comments.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-3_some_common_html_elements/Some Common HTML Elements.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-4_formatting_html_text/01_html_example_text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-4_formatting_html_text/02_html_example_text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-4_formatting_html_text/03_html_example_text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-4_formatting_html_text/04_html_example_text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-4_formatting_html_text/05_html_example_text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-4_formatting_html_text/06_html_example_text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-4_formatting_html_text/07_html_example_text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-01_the_basics_of_html/01_the_basics_of_html/1-1-4_formatting_html_text/Formatting HTML Text.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-1_images/01_html_example_image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-1_images/02_html_example_image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-1_images/03_html_example_image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-1_images/04_html_example_image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-1_images/Images.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-1_images/stella_photo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-2_audio/01_html_example_audio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-2_audio/02_html_example_audio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-2_audio/03_html_example_audio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-2_audio/04_html_example_audio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-2_audio/05_html_example_audio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-2_audio/06_html_example_audio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-2_audio/Audio.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-2_audio/beets_turnips.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-2_audio/drum_loop.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-3_video/01_html_example_video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-3_video/02_html_example_video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-3_video/03_html_example_video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-3_video/04_html_example_video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-3_video/05_html_example_video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-3_video/06_html_example_video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-3_video/Video.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-02_multimedia/02_multimedia/1-2-3_video/walking_video.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-1_links/01_html_example_link.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-1_links/02_html_example_link.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-1_links/03_html_example_link.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-1_links/Links.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-1_links/facebook_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-1_links/google_plus_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-1_links/twitter_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-2_void_elements_&amp;_break/01_html_example_breaks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-2_void_elements_&amp;_break/Void Elements &amp; Breaks.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-3_style/01_html_example_css_file.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-3_style/02_html_example_css_linked.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-3_style/03_html_example_css_embedded.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-3_style/04_html_example_id.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-3_style/05_html_example_css_id.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-3_style/06_html_example_css_class01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-3_style/07_html_example_css_class02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-3_style/Style.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-4_more_on_style/01_html_example_css_inline.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-4_more_on_style/02_html_example_css_context.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-4_more_on_style/03_html_example_css_pseudo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-4_more_on_style/More on Style.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-5_tables/01_html_example_table.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-5_tables/02_html_example_table_class.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-5_tables/03_html_example_table_class.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-5_tables/04_html_example_table_class.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-5_tables/Tables.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-6_div_and_span/01_html_example_div01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-6_div_and_span/02_html_example_div02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-6_div_and_span/03_html_example_div_pos01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-6_div_and_span/04_html_example_div_pos02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-6_div_and_span/05_html_example_span01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-03_strengthening_your_knowledge_of_html/03_strengthening_your_knowledge_of_html/1-3-6_div_and_span/Div &amp; Span.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-04_handling_forms/04_handling_forms/1-4-1_html_form_basics/01_html_example_form_textarea.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-04_handling_forms/04_handling_forms/1-4-1_html_form_basics/02_html_example_form_textarea_submit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-04_handling_forms/04_handling_forms/1-4-1_html_form_basics/HTML Form Basics.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/01_html_example_form_textarea_submit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/02_html_example_form_text_checkbox_radio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/03_html_example_form_password.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/04_html_example_form_password_bad.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/05_html_example_form_list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/06_html_example_form_attributes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-04_handling_forms/04_handling_forms/1-4-2_more_on_forms/More on Forms.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-04_handling_forms/04_handling_forms/1-4-3_handling_file_upload/01_html_example_form_file_upload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-04_handling_forms/04_handling_forms/1-4-3_handling_file_upload/Handling File Upload.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-04_handling_forms/04_handling_forms/1-4-4_some_new_html5_input_elements/01_html_example_form_new_html5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-04_handling_forms/04_handling_forms/1-4-4_some_new_html5_input_elements/Some New HTML5 Input Elements.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-05_grouping/05_grouping/1-5-1_element_grouping/01_html_example_form_fieldset_legend01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/1-05_grouping/05_grouping/1-5-1_element_grouping/Element Grouping.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/assignment/dating.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/assignment/dating1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/assignment/dating2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 1 (HTML and CSS)/assignment/dating3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-00_learning_javascript_in_this_course/Learning JavaScript.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-01_introduction_to_javascript/01_introduction_to_javascript/2-1-0_about_javascript/About JavaScript.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-01_introduction_to_javascript/01_introduction_to_javascript/2-1-1_getting_to_know_javascript/01_html_example_script.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-01_introduction_to_javascript/01_introduction_to_javascript/2-1-1_getting_to_know_javascript/02_alert.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-01_introduction_to_javascript/01_introduction_to_javascript/2-1-1_getting_to_know_javascript/03_confirm.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-01_introduction_to_javascript/01_introduction_to_javascript/2-1-1_getting_to_know_javascript/04_prompt.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-01_introduction_to_javascript/01_introduction_to_javascript/2-1-1_getting_to_know_javascript/Getting to Know JavaScript.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-02_basics_of_javascript/02_basics_of_javascript/2-2-01_variables/01_variables_data_type.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-02_basics_of_javascript/02_basics_of_javascript/2-2-01_variables/Variables.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-02_basics_of_javascript/02_basics_of_javascript/2-2-2_introduction_to_events_and_functions/01_onload_event.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-02_basics_of_javascript/02_basics_of_javascript/2-2-2_introduction_to_events_and_functions/02_onload_event2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-02_basics_of_javascript/02_basics_of_javascript/2-2-2_introduction_to_events_and_functions/03_function_simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-02_basics_of_javascript/02_basics_of_javascript/2-2-2_introduction_to_events_and_functions/04_function2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-02_basics_of_javascript/02_basics_of_javascript/2-2-2_introduction_to_events_and_functions/05_function_recursive.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-02_basics_of_javascript/02_basics_of_javascript/2-2-2_introduction_to_events_and_functions/Introduction to Events and Functions.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/01_if_else1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/02_if_else2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/03_if_else3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/04_if_else4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/05_switch.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/06_switch2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-03_decisions_and_loops/03_decisions_and_loops/2-3-01_making_decisions/Making Decisions.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-03_decisions_and_loops/03_decisions_and_loops/2-3-02_while_loop/01_while.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-03_decisions_and_loops/03_decisions_and_loops/2-3-02_while_loop/02_do_while.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-03_decisions_and_loops/03_decisions_and_loops/2-3-02_while_loop/While Loops.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-04_handling_data/04_handling_data/2-4-01_more_on_variables/01_variables_local_variable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-04_handling_data/04_handling_data/2-4-01_more_on_variables/02_variables_global_variable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-04_handling_data/04_handling_data/2-4-01_more_on_variables/03_variables_global_inside_function.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-04_handling_data/04_handling_data/2-4-01_more_on_variables/More On Variables.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-04_handling_data/04_handling_data/2-4-02_logical_operators/01_logical_and_operator_example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-04_handling_data/04_handling_data/2-4-02_logical_operators/02_logical_and_short_circuit_example1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-04_handling_data/04_handling_data/2-4-02_logical_operators/03_logical_and_short_circuit_example2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-04_handling_data/04_handling_data/2-4-02_logical_operators/04_logical_or_operator_example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-04_handling_data/04_handling_data/2-4-02_logical_operators/05_logical_or_short_circuit_example1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-04_handling_data/04_handling_data/2-4-02_logical_operators/06_logical_not_operator_example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-04_handling_data/04_handling_data/2-4-02_logical_operators/Logical Operators and Boolean Variables.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-04_handling_data/04_handling_data/2-4-03_arrays/Arrays.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-05_generating_random_numbers/2-05_generating_random_numbers/01_random_stage1_example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-05_generating_random_numbers/2-05_generating_random_numbers/02_random_stage2_example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-05_generating_random_numbers/2-05_generating_random_numbers/03_random_stage3_example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/2-05_generating_random_numbers/2-05_generating_random_numbers/Random Number.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/assignment/guessing_game1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 2 (Intro to JavaScript)/assignment/guessing_game2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-01_more_on_loops/3-01_more_on_loops/3-1-01_for_loops/01_for.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-01_more_on_loops/3-01_more_on_loops/3-1-01_for_loops/02_for_in.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-01_more_on_loops/3-01_more_on_loops/3-1-01_for_loops/03_for_in_object.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-01_more_on_loops/3-01_more_on_loops/3-1-01_for_loops/04_for_of.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-01_more_on_loops/3-01_more_on_loops/3-1-01_for_loops/For Loops.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-01_more_on_loops/3-01_more_on_loops/3-1-02_loop_control/01_break.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-01_more_on_loops/3-01_more_on_loops/3-1-02_loop_control/02_continue.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-01_more_on_loops/3-01_more_on_loops/3-1-02_loop_control/Loop control.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-02_more_on_arrays/3-02_more_on_arrays/3-2-01_more_on_arrays/01_array_indexof_all.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-02_more_on_arrays/3-02_more_on_arrays/3-2-01_more_on_arrays/More on Arrays.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-02_more_on_arrays/3-02_more_on_arrays/3-2-02_array_functions/01_array_foreach.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-02_more_on_arrays/3-02_more_on_arrays/3-2-02_array_functions/02_array_map.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-02_more_on_arrays/3-02_more_on_arrays/3-2-02_array_functions/Array Functions.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-01_the_dom_basic_concepts/01_html_example_web_page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-01_the_dom_basic_concepts/02_dom_simple_example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-01_the_dom_basic_concepts/03_dom_detailed_example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-01_the_dom_basic_concepts/04_dom_html_whitespace_example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-01_the_dom_basic_concepts/The DOM - Basic Concepts.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-02_node_relationships/01_dom_path_html.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-02_node_relationships/02_dom_path_svg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-02_node_relationships/Node Relationships.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-03_locating_nodes/01_dom_three_methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-03_locating_nodes/Locating Nodes.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-04_creating_and_adding_nodes/01_dom_html_insertbefore.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-04_creating_and_adding_nodes/02_dom_html_appendchild.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-04_creating_and_adding_nodes/Creating and Adding Nodes.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-05_deleting_nodes/01_dom_delete_node_example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-05_deleting_nodes/02_dom_delete_all_children_example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-05_deleting_nodes/Deleting Nodes.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-06_cloning_nodes/01_dom_clone_node_simple_clonenode_false.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-06_cloning_nodes/02_dom_clone_node_simple_clonenode_true.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-03_dom/3-03_dom/3-3-06_cloning_nodes/Cloning Nodes.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-04_more_on_events/3-04_more_on_events/3-4-01_mouse_events/01_onclick_image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-04_more_on_events/3-04_more_on_events/3-4-01_mouse_events/02_onmouseover_onmouseout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-04_more_on_events/3-04_more_on_events/3-4-01_mouse_events/Mouse Events.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-04_more_on_events/3-04_more_on_events/3-4-01_mouse_events/facebook_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-04_more_on_events/3-04_more_on_events/3-4-01_mouse_events/google_plus_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-04_more_on_events/3-04_more_on_events/3-4-01_mouse_events/twitter_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-04_more_on_events/3-04_more_on_events/3-4-02_timer_events/01_cleartimeout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-04_more_on_events/3-04_more_on_events/3-4-02_timer_events/02_settimeout_image1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-04_more_on_events/3-04_more_on_events/3-4-02_timer_events/03_settimeout2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-04_more_on_events/3-04_more_on_events/3-4-02_timer_events/04_setinterval_image1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-04_more_on_events/3-04_more_on_events/3-4-02_timer_events/Timer Events.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-04_more_on_events/3-04_more_on_events/3-4-02_timer_events/stones.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-04_more_on_events/3-04_more_on_events/3-4-03_adding_events_using_javascript/01_add_event_js1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-04_more_on_events/3-04_more_on_events/3-4-03_adding_events_using_javascript/02_add_event_js2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-04_more_on_events/3-04_more_on_events/3-4-03_adding_events_using_javascript/03_remove_event.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-04_more_on_events/3-04_more_on_events/3-4-03_adding_events_using_javascript/Adding Events Using JavaScript.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-05_advanced_use_of_functions/3-05_advanced_use_of_functions/3-5-01_more_on_functions/01_function_passes_function.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-05_advanced_use_of_functions/3-05_advanced_use_of_functions/3-5-01_more_on_functions/02_function_returns_function.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-05_advanced_use_of_functions/3-05_advanced_use_of_functions/3-5-01_more_on_functions/More on Functions.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-06_an_example_dom_project/3-06_an_example_dom_project/01_dom_colorful_pattern.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-06_an_example_dom_project/3-06_an_example_dom_project/01_dom_colorful_pattern_js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-06_an_example_dom_project/3-06_an_example_dom_project/02_dom_colorful_pattern_no_color.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/3-06_an_example_dom_project/3-06_an_example_dom_project/Example Project.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/assignment/matching1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/assignment/matching2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/assignment/matching3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../coursera/html-css-javascript/Week 3 (Advanced JavaScript)/assignment/matching4.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../coursera/using-python-to-access-web-data/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../coursera/using-python-to-access-web-data/.idea/workspace.xml" />
+    </list>
+    <ignored path="djangogirls.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="djangogirls" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/blog/models.py" />
+        <option value="$PROJECT_DIR$/blog/admin.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="51" />
+    <option name="y" value="23" />
+    <option name="width" value="1229" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="djangogirls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="djangogirls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="djangogirls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="djangogirls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="djangogirls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="djangogirls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="djangogirls" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Django server.djangogirls">
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="djangogirls" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="djangogirls" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="djangogirls" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Django server.djangogirls" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e86f7b8d-5af5-42fd-bd0b-224d1804d4a1" name="Default" comment="" />
+      <created>1473086453484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1473086453484</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="51" y="23" width="1229" height="777" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24936816" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
